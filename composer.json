@@ -15,6 +15,5 @@
         "psr-4": {"vitalis\\HelloWorld\\": "src/"}
     },
 
-    "require": {},
-
+    "require": {}
 }

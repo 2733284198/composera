@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c16b2a48-0091-4770-b8d4-9b78dfd36281" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +30,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -43,17 +46,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020-10-26 11:51:21&#10;1、提交代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="117" key="CommitChangelistDialog2" timestamp="1603684290121">
+    <state x="418" y="117" key="CommitChangelistDialog2" timestamp="1603685262935">
       <screen x="0" y="23" width="1920" height="1140" />
     </state>
-    <state x="418" y="117" key="CommitChangelistDialog2/0.23.1920.1140@0.23.1920.1140" timestamp="1603684290121" />
+    <state x="418" y="117" key="CommitChangelistDialog2/0.23.1920.1140@0.23.1920.1140" timestamp="1603685262935" />
     <state x="1432" y="667" key="NewPhpFileDialog" timestamp="1603684515472">
       <screen x="0" y="23" width="1920" height="1140" />
     </state>
     <state x="1432" y="667" key="NewPhpFileDialog/0.23.1920.1140@0.23.1920.1140" timestamp="1603684515472" />
-    <state x="471" y="396" key="Vcs.Push.Dialog.v2" timestamp="1603684709537">
+    <state x="471" y="396" key="Vcs.Push.Dialog.v2" timestamp="1603685266936">
       <screen x="0" y="23" width="1920" height="1140" />
     </state>
-    <state x="471" y="396" key="Vcs.Push.Dialog.v2/0.23.1920.1140@0.23.1920.1140" timestamp="1603684709537" />
+    <state x="471" y="396" key="Vcs.Push.Dialog.v2/0.23.1920.1140@0.23.1920.1140" timestamp="1603685266936" />
   </component>
 </project>
